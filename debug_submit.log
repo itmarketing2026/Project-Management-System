@@ -1,0 +1,563 @@
+2025-10-22 08:30:45 - Received submit
+2025-10-22 08:30:45 - Received submit
+2025-10-22 09:02:19 - Received submit
+2025-10-22 09:02:19 - Received submit
+2025-10-22 09:03:46 - Received submit
+2025-10-22 09:03:46 - Received submit
+[2025-10-23 07:32:16] ===== Script started =====
+[2025-10-23 07:32:16] Database connected.
+[2025-10-23 07:32:16] Project ID = 18
+[2025-10-23 07:32:16] Next revision number = 1
+[2025-10-23 07:32:16] Prepare failed: Column count doesn't match value count at row 1
+[2025-10-23 07:32:16] ===== Script started =====
+[2025-10-23 07:32:16] Database connected.
+[2025-10-23 07:32:16] Project ID = 18
+[2025-10-23 07:32:16] Next revision number = 1
+[2025-10-23 07:32:16] Prepare failed: Column count doesn't match value count at row 1
+[2025-10-23 07:49:51] ===== Script started =====
+[2025-10-23 07:49:51] Database connected.
+[2025-10-23 07:49:51] Project ID = 18
+[2025-10-23 07:49:51] Next revision number = 1
+[2025-10-23 07:49:51] Preparing statement...
+[2025-10-23 07:49:51] Statement prepared successfully.
+[2025-10-23 07:49:51] Total rows submitted = 4
+[2025-10-23 07:49:51] Row 0 skipped (empty description + all zeros)
+[2025-10-23 07:49:51] Row 1 OK — bill_no=2, desc_len=0
+[2025-10-23 07:49:51] Row 2 OK — bill_no=3, desc_len=0
+[2025-10-23 07:49:51] Row 3 OK — bill_no=4, desc_len=0
+[2025-10-23 07:49:51] All rows processed. Redirecting...
+[2025-10-23 07:49:51] ===== Script ended normally =====
+
+[2025-10-23 07:49:51] ===== Script started =====
+[2025-10-23 07:49:51] Database connected.
+[2025-10-23 07:49:51] Project ID = 18
+[2025-10-23 07:49:51] Next revision number = 2
+[2025-10-23 07:49:51] Preparing statement...
+[2025-10-23 07:49:51] Statement prepared successfully.
+[2025-10-23 07:49:51] Total rows submitted = 3
+[2025-10-23 07:49:51] Row 0 OK — bill_no=2, desc_len=15
+[2025-10-23 07:49:51] Row 1 OK — bill_no=3, desc_len=17
+[2025-10-23 07:49:51] Row 2 OK — bill_no=4, desc_len=17
+[2025-10-23 07:49:51] All rows processed. Redirecting...
+[2025-10-23 07:49:51] ===== Script ended normally =====
+
+[2025-10-23 08:01:00] ===== Script started =====
+[2025-10-23 08:01:00] Database connected.
+[2025-10-23 08:01:00] Project ID = 18
+[2025-10-23 08:01:00] Proposed next_rev = 3
+[2025-10-23 08:01:00] Latest existing revision_no=2 created -28131 seconds ago.
+[2025-10-23 08:01:00] Within 5s window — WILL OVERWRITE revision 2
+[2025-10-23 08:01:00] Deleted existing rows for project_id=18, revision_no=2
+[2025-10-23 08:01:00] Preparing insert...
+[2025-10-23 08:01:00] Prepared successfully.
+[2025-10-23 08:01:00] Total submitted rows = 6
+[2025-10-23 08:01:00] Row 0 skipped (empty + zeros).
+[2025-10-23 08:01:00] Inserted row 1 (bill_no=2, desc_len=0, rev=2)
+[2025-10-23 08:01:00] Inserted row 2 (bill_no=3, desc_len=0, rev=2)
+[2025-10-23 08:01:00] Inserted row 3 (bill_no=4, desc_len=0, rev=2)
+[2025-10-23 08:01:00] Inserted row 4 (bill_no=5, desc_len=0, rev=2)
+[2025-10-23 08:01:00] Inserted row 5 (bill_no=6, desc_len=0, rev=2)
+[2025-10-23 08:01:00] Finished processing. Redirecting to view_project.php?id=18&rev_no=2
+[2025-10-23 08:01:00] ===== Script ended normally =====
+
+[2025-10-23 08:01:00] ===== Script started =====
+[2025-10-23 08:01:00] Database connected.
+[2025-10-23 08:01:00] Project ID = 18
+[2025-10-23 08:01:00] Proposed next_rev = 3
+[2025-10-23 08:01:00] Latest existing revision_no=2 created -28800 seconds ago.
+[2025-10-23 08:01:00] Within 5s window — WILL OVERWRITE revision 2
+[2025-10-23 08:01:00] Deleted existing rows for project_id=18, revision_no=2
+[2025-10-23 08:01:00] Preparing insert...
+[2025-10-23 08:01:00] Prepared successfully.
+[2025-10-23 08:01:00] Total submitted rows = 5
+[2025-10-23 08:01:00] Inserted row 0 (bill_no=2, desc_len=15, rev=2)
+[2025-10-23 08:01:00] Inserted row 1 (bill_no=3, desc_len=17, rev=2)
+[2025-10-23 08:01:00] Inserted row 2 (bill_no=4, desc_len=17, rev=2)
+[2025-10-23 08:01:00] Inserted row 3 (bill_no=5, desc_len=17, rev=2)
+[2025-10-23 08:01:00] Inserted row 4 (bill_no=6, desc_len=17, rev=2)
+[2025-10-23 08:01:00] Finished processing. Redirecting to view_project.php?id=18&rev_no=2
+[2025-10-23 08:01:00] ===== Script ended normally =====
+
+[2025-10-23 08:01:31] ===== Script started =====
+[2025-10-23 08:01:31] Database connected.
+[2025-10-23 08:01:31] Project ID = 18
+[2025-10-23 08:01:31] Proposed next_rev = 3
+[2025-10-23 08:01:31] Latest existing revision_no=2 created -28769 seconds ago.
+[2025-10-23 08:01:31] Within 5s window — WILL OVERWRITE revision 2
+[2025-10-23 08:01:31] ===== Script started =====
+[2025-10-23 08:01:31] Database connected.
+[2025-10-23 08:01:31] Project ID = 18
+[2025-10-23 08:01:31] Deleted existing rows for project_id=18, revision_no=2
+[2025-10-23 08:01:31] Proposed next_rev = 2
+[2025-10-23 08:01:31] Preparing insert...
+[2025-10-23 08:01:31] Prepared successfully.
+[2025-10-23 08:01:31] Total submitted rows = 7
+[2025-10-23 08:01:31] Latest existing revision_no=1 created -28100 seconds ago.
+[2025-10-23 08:01:31] Within 5s window — WILL OVERWRITE revision 1
+[2025-10-23 08:01:31] Deleted existing rows for project_id=18, revision_no=1
+[2025-10-23 08:01:31] Preparing insert...
+[2025-10-23 08:01:31] Prepared successfully.
+[2025-10-23 08:01:31] Total submitted rows = 8
+[2025-10-23 08:01:31] Row 0 skipped (empty + zeros).
+[2025-10-23 08:01:31] Inserted row 0 (bill_no=2, desc_len=15, rev=2)
+[2025-10-23 08:01:31] Inserted row 1 (bill_no=2, desc_len=0, rev=1)
+[2025-10-23 08:01:31] Inserted row 2 (bill_no=3, desc_len=0, rev=1)
+[2025-10-23 08:01:31] Inserted row 3 (bill_no=4, desc_len=0, rev=1)
+[2025-10-23 08:01:31] Inserted row 1 (bill_no=3, desc_len=17, rev=2)
+[2025-10-23 08:01:31] Inserted row 4 (bill_no=5, desc_len=0, rev=1)
+[2025-10-23 08:01:31] Inserted row 5 (bill_no=6, desc_len=0, rev=1)
+[2025-10-23 08:01:31] Inserted row 2 (bill_no=4, desc_len=17, rev=2)
+[2025-10-23 08:01:31] Inserted row 6 (bill_no=7, desc_len=0, rev=1)
+[2025-10-23 08:01:31] Inserted row 3 (bill_no=5, desc_len=17, rev=2)
+[2025-10-23 08:01:31] Inserted row 7 (bill_no=8, desc_len=0, rev=1)
+[2025-10-23 08:01:31] Finished processing. Redirecting to view_project.php?id=18&rev_no=1
+[2025-10-23 08:01:31] ===== Script ended normally =====
+
+[2025-10-23 08:01:31] Inserted row 4 (bill_no=6, desc_len=17, rev=2)
+[2025-10-23 08:01:31] Inserted row 5 (bill_no=7, desc_len=17, rev=2)
+[2025-10-23 08:01:31] Inserted row 6 (bill_no=8, desc_len=17, rev=2)
+[2025-10-23 08:01:31] Finished processing. Redirecting to view_project.php?id=18&rev_no=2
+[2025-10-23 08:01:31] ===== Script ended normally =====
+
+[2025-10-23 08:07:00] ===== Script started =====
+[2025-10-23 08:07:00] Database connected.
+[2025-10-23 08:07:00] Project ID = 18
+[2025-10-23 08:07:00] Lock file updated.
+[2025-10-23 08:07:00] ===== Script started =====
+[2025-10-23 08:07:00] Next revision number = 3
+[2025-10-23 08:07:00] Prepared successfully.
+[2025-10-23 08:07:00] Total rows submitted = 11
+[2025-10-23 08:07:00] Row 0 skipped (empty + zero values)
+[2025-10-23 08:07:00] Database connected.
+[2025-10-23 08:07:00] Project ID = 18
+[2025-10-23 08:07:00] Duplicate submission detected (locked). Ignoring.
+[2025-10-23 08:07:00] Row 1 OK (bill_no=2, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 2 OK (bill_no=3, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 3 OK (bill_no=4, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 4 OK (bill_no=5, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 5 OK (bill_no=6, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 6 OK (bill_no=7, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 7 OK (bill_no=8, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 8 OK (bill_no=9, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 9 OK (bill_no=10, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Row 10 OK (bill_no=11, rev=3, desc_len=0)
+[2025-10-23 08:07:00] Revision #3 saved successfully.
+[2025-10-23 08:07:00] ===== Script ended normally =====
+
+[2025-10-23 08:21:55] ===== Script started =====
+[2025-10-23 08:21:55] Database connected.
+[2025-10-23 08:21:55] Project ID = 18
+[2025-10-23 08:21:55] Lock file updated.
+[2025-10-23 08:21:55] ===== Script started =====
+[2025-10-23 08:21:55] Next revision number = 4
+[2025-10-23 08:21:55] Prepared successfully.
+[2025-10-23 08:21:55] Total rows submitted = 14
+[2025-10-23 08:21:55] Row 0 skipped (empty + zero values)
+[2025-10-23 08:21:55] Database connected.
+[2025-10-23 08:21:55] Project ID = 18
+[2025-10-23 08:21:55] Duplicate submission detected (locked). Ignoring.
+[2025-10-23 08:21:55] Row 1 OK (bill_no=2, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 2 OK (bill_no=3, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 3 OK (bill_no=4, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 4 OK (bill_no=5, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 5 OK (bill_no=6, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 6 OK (bill_no=7, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 7 OK (bill_no=8, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 8 OK (bill_no=9, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 9 OK (bill_no=10, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 10 OK (bill_no=11, rev=4, desc_len=0)
+[2025-10-23 08:21:55] Row 11 skipped (empty + zero values)
+[2025-10-23 08:21:55] Row 12 skipped (empty + zero values)
+[2025-10-23 08:21:55] Row 13 skipped (empty + zero values)
+[2025-10-23 08:21:55] Revision #4 saved successfully.
+[2025-10-23 08:21:55] ===== Script ended normally =====
+
+[2025-10-23 08:30:34] ===== Script started =====
+[2025-10-23 08:30:34] Database connected.
+[2025-10-23 08:30:34] Project ID = 18
+[2025-10-23 08:30:34] Lock file updated.
+[2025-10-23 08:30:34] Next revision number = 5
+[2025-10-23 08:30:34] Prepared successfully.
+[2025-10-23 08:30:34] Total rows submitted = 15
+[2025-10-23 08:30:34] Row 0 skipped (empty + zero values)
+[2025-10-23 08:30:34] Row 1 OK (bill_no=2, rev=5, desc_len=0)
+[2025-10-23 08:30:34] ===== Script started =====
+[2025-10-23 08:30:34] Row 2 OK (bill_no=3, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 3 OK (bill_no=4, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 4 OK (bill_no=5, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 5 OK (bill_no=6, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Database connected.
+[2025-10-23 08:30:34] Project ID = 18
+[2025-10-23 08:30:34] Duplicate submission detected (locked). Ignoring.
+[2025-10-23 08:30:34] Row 6 OK (bill_no=7, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 7 OK (bill_no=8, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 8 OK (bill_no=9, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 9 OK (bill_no=10, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 10 OK (bill_no=11, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 11 OK (bill_no=12, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 12 OK (bill_no=13, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 13 OK (bill_no=14, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Row 14 OK (bill_no=15, rev=5, desc_len=0)
+[2025-10-23 08:30:34] Revision #5 saved successfully.
+[2025-10-23 08:30:34] ===== Script ended normally =====
+
+[2025-10-23 08:42:18] ===== Script started =====
+[2025-10-23 08:42:18] Database connected.
+[2025-10-23 08:42:18] Project ID = 18
+[2025-10-23 08:42:18] Lock file updated.
+[2025-10-23 08:42:18] ===== Script started =====
+[2025-10-23 08:42:18] Database connected.
+[2025-10-23 08:42:18] Project ID = 18
+[2025-10-23 08:42:18] Duplicate submission detected (locked). Ignoring.
+[2025-10-23 08:42:18] Next revision number = 6
+[2025-10-23 08:42:18] Prepared successfully.
+[2025-10-23 08:42:18] Total rows submitted = 17
+[2025-10-23 08:42:18] Row 0 skipped (empty + zero values)
+[2025-10-23 08:42:18] Row 1 OK (bill_no=2, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 2 OK (bill_no=3, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 3 OK (bill_no=4, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 4 OK (bill_no=5, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 5 OK (bill_no=6, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 6 OK (bill_no=7, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 7 OK (bill_no=8, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 8 OK (bill_no=9, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 9 OK (bill_no=10, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 10 OK (bill_no=11, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 11 OK (bill_no=12, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 12 OK (bill_no=13, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 13 OK (bill_no=14, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 14 OK (bill_no=15, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 15 OK (bill_no=16, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Row 16 OK (bill_no=17, rev=6, desc_len=0)
+[2025-10-23 08:42:18] Revision #6 saved successfully.
+[2025-10-23 08:42:18] ===== Script ended normally =====
+
+[2025-10-23 08:53:25] ===== Script started =====
+[2025-10-23 08:53:25] Database connected.
+[2025-10-23 08:53:25] Project ID = 18
+[2025-10-23 08:53:25] Lock file updated.
+[2025-10-23 08:53:25] Next revision number = 7
+[2025-10-23 08:53:25] ===== Script started =====
+[2025-10-23 08:53:25] Prepared successfully.
+[2025-10-23 08:53:25] Total rows submitted = 11
+[2025-10-23 08:53:25] Row 0 skipped (empty + zero values)
+[2025-10-23 08:53:25] Database connected.
+[2025-10-23 08:53:25] Project ID = 18
+[2025-10-23 08:53:25] Row 1 OK (bill_no=2, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Duplicate submission detected (locked). Ignoring.
+[2025-10-23 08:53:25] Row 2 OK (bill_no=3, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 3 OK (bill_no=4, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 4 OK (bill_no=5, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 5 OK (bill_no=6, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 6 OK (bill_no=7, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 7 OK (bill_no=8, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 8 OK (bill_no=9, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 9 OK (bill_no=10, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Row 10 OK (bill_no=11, rev=7, desc_len=0)
+[2025-10-23 08:53:25] Revision #7 saved successfully.
+[2025-10-23 08:53:25] ===== Script ended normally =====
+
+[2025-10-23 09:00:17] ===== Script started =====
+[2025-10-23 09:00:18] Database connected.
+[2025-10-23 09:00:18] Project ID = 18
+[2025-10-23 09:00:18] Lock file updated.
+[2025-10-23 09:00:18] Next revision number = 8
+[2025-10-23 09:00:18] Prepared successfully.
+[2025-10-23 09:00:18] Total rows submitted = 11
+[2025-10-23 09:00:18] Row 0 skipped (empty + zero values)
+[2025-10-23 09:00:18] Row 1 description = '' (len=0)
+[2025-10-23 09:00:18] Row 1 OK (bill_no=2, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 2 description = '' (len=0)
+[2025-10-23 09:00:18] Row 2 OK (bill_no=3, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 3 description = '' (len=0)
+[2025-10-23 09:00:18] Row 3 OK (bill_no=4, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 4 description = '' (len=0)
+[2025-10-23 09:00:18] Row 4 OK (bill_no=5, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 5 description = '' (len=0)
+[2025-10-23 09:00:18] Row 5 OK (bill_no=6, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 6 description = '' (len=0)
+[2025-10-23 09:00:18] Row 6 OK (bill_no=7, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 7 description = '' (len=0)
+[2025-10-23 09:00:18] Row 7 OK (bill_no=8, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 8 description = '' (len=0)
+[2025-10-23 09:00:18] Row 8 OK (bill_no=9, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 9 description = '' (len=0)
+[2025-10-23 09:00:18] Row 9 OK (bill_no=10, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Row 10 description = '' (len=0)
+[2025-10-23 09:00:18] Row 10 OK (bill_no=11, rev=8, desc_len=0)
+[2025-10-23 09:00:18] Revision #8 saved successfully.
+[2025-10-23 09:00:18] ===== Script ended normally =====
+
+[2025-10-23 09:00:18] ===== Script started =====
+[2025-10-23 09:00:18] Database connected.
+[2025-10-23 09:00:18] Project ID = 18
+[2025-10-23 09:00:18] Duplicate submission detected (locked). Ignoring.
+[2025-10-23 09:06:25] ===== Script started =====
+[2025-10-23 09:06:25] Database connected.
+[2025-10-23 09:06:25] Project ID = 18
+[2025-10-23 09:06:25] Lock file updated.
+[2025-10-23 09:06:25] Next revision number = 9
+[2025-10-23 09:06:25] Prepared successfully.
+[2025-10-23 09:06:25] Total rows submitted = 12
+[2025-10-23 09:06:25] Row 0 skipped (empty + zero values)
+[2025-10-23 09:06:25] Row 1 description = '' (len=0)
+[2025-10-23 09:06:25] Row 1 OK (bill_no=2, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 2 description = '' (len=0)
+[2025-10-23 09:06:25] Row 2 OK (bill_no=3, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 3 description = '' (len=0)
+[2025-10-23 09:06:25] Row 3 OK (bill_no=4, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 4 description = '' (len=0)
+[2025-10-23 09:06:25] Row 4 OK (bill_no=5, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 5 description = '' (len=0)
+[2025-10-23 09:06:25] Row 5 OK (bill_no=6, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 6 description = '' (len=0)
+[2025-10-23 09:06:25] Row 6 OK (bill_no=7, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 7 description = '' (len=0)
+[2025-10-23 09:06:25] Row 7 OK (bill_no=8, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 8 description = '' (len=0)
+[2025-10-23 09:06:25] Row 8 OK (bill_no=9, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 9 description = '' (len=0)
+[2025-10-23 09:06:25] Row 9 OK (bill_no=10, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 10 description = '' (len=0)
+[2025-10-23 09:06:25] Row 10 OK (bill_no=11, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Row 11 description = '' (len=0)
+[2025-10-23 09:06:25] Row 11 OK (bill_no=12, rev=9, desc_len=0)
+[2025-10-23 09:06:25] Revision #9 saved successfully.
+[2025-10-23 09:06:25] ===== Script ended normally =====
+
+[2025-10-23 09:06:25] ===== Script started =====
+[2025-10-23 09:06:25] Database connected.
+[2025-10-23 09:06:25] Project ID = 18
+[2025-10-23 09:06:25] Duplicate submission detected (locked). Ignoring.
+[2025-10-23 09:16:39] ===== Script started =====
+[2025-10-23 09:16:39] Database connected.
+[2025-10-23 09:16:39] Project ID = 18
+[2025-10-23 09:16:39] Lock file updated.
+[2025-10-23 09:16:39] Next revision number = 10
+[2025-10-23 09:16:39] Prepared successfully.
+[2025-10-23 09:16:39] Total rows submitted = 13
+[2025-10-23 09:16:39] Row 0 skipped (empty + zero values)
+[2025-10-23 09:16:39] Row 1 description = 'wrwr' (len=4)
+[2025-10-23 09:16:39] Row 1 OK (bill_no=2, rev=10, desc_len=4)
+[2025-10-23 09:16:39] Row 2 description = 'wr' (len=2)
+[2025-10-23 09:16:39] Row 2 OK (bill_no=3, rev=10, desc_len=2)
+[2025-10-23 09:16:39] Row 3 description = 'qwrq' (len=4)
+[2025-10-23 09:16:39] Row 3 OK (bill_no=4, rev=10, desc_len=4)
+[2025-10-23 09:16:39] Row 4 description = 'wqrwq' (len=5)
+[2025-10-23 09:16:39] Row 4 OK (bill_no=5, rev=10, desc_len=5)
+[2025-10-23 09:16:39] Row 5 description = 'erwe' (len=4)
+[2025-10-23 09:16:39] Row 5 OK (bill_no=6, rev=10, desc_len=4)
+[2025-10-23 09:16:39] Row 6 description = 'rweqr' (len=5)
+[2025-10-23 09:16:39] Row 6 OK (bill_no=7, rev=10, desc_len=5)
+[2025-10-23 09:16:39] Row 7 description = 'qwer' (len=4)
+[2025-10-23 09:16:39] Row 7 OK (bill_no=8, rev=10, desc_len=4)
+[2025-10-23 09:16:39] Row 8 description = 'wrwq' (len=4)
+[2025-10-23 09:16:39] Row 8 OK (bill_no=9, rev=10, desc_len=4)
+[2025-10-23 09:16:39] Row 9 description = 'rwqr' (len=4)
+[2025-10-23 09:16:39] Row 9 OK (bill_no=10, rev=10, desc_len=4)
+[2025-10-23 09:16:39] Row 10 description = 'qwr' (len=3)
+[2025-10-23 09:16:39] Row 10 OK (bill_no=11, rev=10, desc_len=3)
+[2025-10-23 09:16:39] Row 11 description = 'qwrwer' (len=6)
+[2025-10-23 09:16:39] Row 11 OK (bill_no=12, rev=10, desc_len=6)
+[2025-10-23 09:16:39] Row 12 description = 'rqwrweqr' (len=8)
+[2025-10-23 09:16:39] Row 12 OK (bill_no=13, rev=10, desc_len=8)
+[2025-10-23 09:16:39] Revision #10 saved successfully.
+[2025-10-23 09:16:39] ===== Script ended normally =====
+
+[2025-10-23 09:19:21] ===== Script started =====
+[2025-10-23 09:19:21] Database connected.
+[2025-10-23 09:19:21] Project ID = 18
+[2025-10-23 09:19:21] Lock file updated.
+[2025-10-23 09:19:21] Next revision number = 11
+[2025-10-23 09:19:21] Prepared successfully.
+[2025-10-23 09:19:21] Total rows submitted = 8
+[2025-10-23 09:19:21] Row 0 skipped (empty + zero values)
+[2025-10-23 09:19:21] Row 1 description = 'test' (len=4)
+[2025-10-23 09:19:21] Row 1 OK (bill_no=2, rev=11, desc_len=4)
+[2025-10-23 09:19:21] Row 2 description = 'test' (len=4)
+[2025-10-23 09:19:21] Row 2 OK (bill_no=3, rev=11, desc_len=4)
+[2025-10-23 09:19:21] Row 3 description = 'test' (len=4)
+[2025-10-23 09:19:21] Row 3 OK (bill_no=4, rev=11, desc_len=4)
+[2025-10-23 09:19:21] Row 4 description = 'test' (len=4)
+[2025-10-23 09:19:21] Row 4 OK (bill_no=5, rev=11, desc_len=4)
+[2025-10-23 09:19:21] Row 5 description = 'test' (len=4)
+[2025-10-23 09:19:21] Row 5 OK (bill_no=6, rev=11, desc_len=4)
+[2025-10-23 09:19:21] Row 6 description = 'test' (len=4)
+[2025-10-23 09:19:21] Row 6 OK (bill_no=7, rev=11, desc_len=4)
+[2025-10-23 09:19:21] Row 7 description = 'test' (len=4)
+[2025-10-23 09:19:21] Row 7 OK (bill_no=8, rev=11, desc_len=4)
+[2025-10-23 09:19:21] Revision #11 saved successfully.
+[2025-10-23 09:19:21] ===== Script ended normally =====
+
+[2025-10-23 09:20:31] ===== Script started =====
+[2025-10-23 09:20:31] Database connected.
+[2025-10-23 09:20:31] Project ID = 18
+[2025-10-23 09:20:31] Lock file updated.
+[2025-10-23 09:20:31] Next revision number = 12
+[2025-10-23 09:20:31] Prepared successfully.
+[2025-10-23 09:20:31] Total rows submitted = 8
+[2025-10-23 09:20:31] Row 0 skipped (empty + zero values)
+[2025-10-23 09:20:31] Row 1 description = 'hello' (len=5)
+[2025-10-23 09:20:31] Row 1 OK (bill_no=2, rev=12, desc_len=5)
+[2025-10-23 09:20:31] Row 2 description = 'hai' (len=3)
+[2025-10-23 09:20:31] Row 2 OK (bill_no=3, rev=12, desc_len=3)
+[2025-10-23 09:20:31] Row 3 description = 'konnichiwa' (len=10)
+[2025-10-23 09:20:31] Row 3 OK (bill_no=4, rev=12, desc_len=10)
+[2025-10-23 09:20:31] Row 4 description = 'annyeong' (len=8)
+[2025-10-23 09:20:31] Row 4 OK (bill_no=5, rev=12, desc_len=8)
+[2025-10-23 09:20:31] Row 5 description = 'ohayo' (len=5)
+[2025-10-23 09:20:31] Row 5 OK (bill_no=6, rev=12, desc_len=5)
+[2025-10-23 09:20:31] Row 6 description = 'slemat pagi' (len=11)
+[2025-10-23 09:20:31] Row 6 OK (bill_no=7, rev=12, desc_len=11)
+[2025-10-23 09:20:31] Row 7 description = 'urahhh' (len=6)
+[2025-10-23 09:20:31] Row 7 OK (bill_no=8, rev=12, desc_len=6)
+[2025-10-23 09:20:31] Revision #12 saved successfully.
+[2025-10-23 09:20:31] ===== Script ended normally =====
+
+[2025-10-23 09:26:20] ===== Script started =====
+[2025-10-23 09:26:20] Database connected.
+[2025-10-23 09:26:20] Project ID = 18
+[2025-10-23 09:26:20] Lock file updated.
+[2025-10-23 09:26:20] Next revision number = 13
+[2025-10-23 09:26:20] Prepared successfully.
+[2025-10-23 09:26:20] Total rows submitted = 10
+[2025-10-23 09:26:20] Row 0 skipped (empty + zero values)
+[2025-10-23 09:26:20] Row 1 description = 'hello' (len=5)
+[2025-10-23 09:26:20] Row 1 OK (bill_no=2, rev=13, desc_len=5)
+[2025-10-23 09:26:20] Row 2 description = 'hai' (len=3)
+[2025-10-23 09:26:20] Row 2 OK (bill_no=3, rev=13, desc_len=3)
+[2025-10-23 09:26:20] Row 3 description = 'konnichiwa' (len=10)
+[2025-10-23 09:26:21] Row 3 OK (bill_no=4, rev=13, desc_len=10)
+[2025-10-23 09:26:21] Row 4 description = 'annyeong' (len=8)
+[2025-10-23 09:26:21] Row 4 OK (bill_no=5, rev=13, desc_len=8)
+[2025-10-23 09:26:21] Row 5 description = 'ohayo' (len=5)
+[2025-10-23 09:26:21] Row 5 OK (bill_no=6, rev=13, desc_len=5)
+[2025-10-23 09:26:21] Row 6 description = 'slemat pagi' (len=11)
+[2025-10-23 09:26:21] Row 6 OK (bill_no=7, rev=13, desc_len=11)
+[2025-10-23 09:26:21] Row 7 description = 'urahhh' (len=6)
+[2025-10-23 09:26:21] Row 7 OK (bill_no=8, rev=13, desc_len=6)
+[2025-10-23 09:26:21] Row 8 description = 'testing new' (len=11)
+[2025-10-23 09:26:21] Row 8 OK (bill_no=9, rev=13, desc_len=11)
+[2025-10-23 09:26:21] Row 9 description = 'more testing' (len=12)
+[2025-10-23 09:26:21] Row 9 OK (bill_no=10, rev=13, desc_len=12)
+[2025-10-23 09:26:21] Revision #13 saved successfully.
+[2025-10-23 09:26:21] ===== Script ended normally =====
+
+[2025-10-23 09:26:48] ===== Script started =====
+[2025-10-23 09:26:48] Database connected.
+[2025-10-23 09:26:48] Project ID = 18
+[2025-10-23 09:26:48] Lock file updated.
+[2025-10-23 09:26:48] Next revision number = 14
+[2025-10-23 09:26:48] Prepared successfully.
+[2025-10-23 09:26:48] Total rows submitted = 8
+[2025-10-23 09:26:48] Row 0 skipped (empty + zero values)
+[2025-10-23 09:26:48] Row 1 description = 'hello' (len=5)
+[2025-10-23 09:26:48] Row 1 OK (bill_no=2, rev=14, desc_len=5)
+[2025-10-23 09:26:48] Row 2 description = 'hai' (len=3)
+[2025-10-23 09:26:48] Row 2 OK (bill_no=3, rev=14, desc_len=3)
+[2025-10-23 09:26:48] Row 3 description = 'konnichiwa' (len=10)
+[2025-10-23 09:26:48] Row 3 OK (bill_no=4, rev=14, desc_len=10)
+[2025-10-23 09:26:48] Row 4 description = 'annyeong' (len=8)
+[2025-10-23 09:26:48] Row 4 OK (bill_no=5, rev=14, desc_len=8)
+[2025-10-23 09:26:48] Row 5 description = 'ohayo' (len=5)
+[2025-10-23 09:26:48] Row 5 OK (bill_no=6, rev=14, desc_len=5)
+[2025-10-23 09:26:48] Row 6 description = 'slemat pagi' (len=11)
+[2025-10-23 09:26:48] Row 6 OK (bill_no=7, rev=14, desc_len=11)
+[2025-10-23 09:26:48] Row 7 description = 'urahhh' (len=6)
+[2025-10-23 09:26:48] Row 7 OK (bill_no=8, rev=14, desc_len=6)
+[2025-10-23 09:26:48] Revision #14 saved successfully.
+[2025-10-23 09:26:48] ===== Script ended normally =====
+
+[2025-10-23 09:28:41] ===== Script started =====
+[2025-10-23 09:28:41] Database connected.
+[2025-10-23 09:28:41] Project ID = 18
+[2025-10-23 09:28:41] Lock file updated.
+[2025-10-23 09:28:41] Next revision number = 15
+[2025-10-23 09:28:41] Prepared successfully.
+[2025-10-23 09:28:41] Total rows submitted = 11
+[2025-10-23 09:28:41] Row 0 skipped (empty + zero values)
+[2025-10-23 09:28:41] Row 1 description = 'hello' (len=5)
+[2025-10-23 09:28:41] Row 1 OK (bill_no=2, rev=15, desc_len=5)
+[2025-10-23 09:28:41] Row 2 description = 'hai' (len=3)
+[2025-10-23 09:28:41] Row 2 OK (bill_no=3, rev=15, desc_len=3)
+[2025-10-23 09:28:41] Row 3 description = 'konnichiwa' (len=10)
+[2025-10-23 09:28:41] Row 3 OK (bill_no=4, rev=15, desc_len=10)
+[2025-10-23 09:28:41] Row 4 description = 'annyeong' (len=8)
+[2025-10-23 09:28:41] Row 4 OK (bill_no=5, rev=15, desc_len=8)
+[2025-10-23 09:28:41] Row 5 description = 'ohayo' (len=5)
+[2025-10-23 09:28:41] Row 5 OK (bill_no=6, rev=15, desc_len=5)
+[2025-10-23 09:28:41] Row 6 description = 'slemat pagi' (len=11)
+[2025-10-23 09:28:41] Row 6 OK (bill_no=7, rev=15, desc_len=11)
+[2025-10-23 09:28:41] Row 7 description = 'urahhh' (len=6)
+[2025-10-23 09:28:41] Row 7 OK (bill_no=8, rev=15, desc_len=6)
+[2025-10-23 09:28:41] Row 8 description = 'yes' (len=3)
+[2025-10-23 09:28:41] Row 8 OK (bill_no=9, rev=15, desc_len=3)
+[2025-10-23 09:28:41] Row 9 description = 'yesssss' (len=7)
+[2025-10-23 09:28:41] Row 9 OK (bill_no=10, rev=15, desc_len=7)
+[2025-10-23 09:28:41] Row 10 description = 'yessssssssssss' (len=14)
+[2025-10-23 09:28:41] Row 10 OK (bill_no=11, rev=15, desc_len=14)
+[2025-10-23 09:28:41] Revision #15 saved successfully.
+[2025-10-23 09:28:41] ===== Script ended normally =====
+
+[2025-10-23 09:31:49] ===== Script started =====
+[2025-10-23 09:31:49] Database connected.
+[2025-10-23 09:31:49] Project ID = 18
+[2025-10-23 09:31:49] Lock file updated.
+[2025-10-23 09:31:49] Next revision number = 16
+[2025-10-23 09:31:49] Prepared successfully.
+[2025-10-23 09:31:49] Total rows submitted = 12
+[2025-10-23 09:31:49] Row 0 skipped (empty + zero values)
+[2025-10-23 09:31:49] Row 1 description = 'hello' (len=5)
+[2025-10-23 09:31:49] Row 1 OK (bill_no=2, rev=16, desc_len=5)
+[2025-10-23 09:31:49] Row 2 description = 'hai' (len=3)
+[2025-10-23 09:31:49] Row 2 OK (bill_no=3, rev=16, desc_len=3)
+[2025-10-23 09:31:49] Row 3 description = 'konnichiwa' (len=10)
+[2025-10-23 09:31:49] Row 3 OK (bill_no=4, rev=16, desc_len=10)
+[2025-10-23 09:31:49] Row 4 description = 'annyeong' (len=8)
+[2025-10-23 09:31:49] Row 4 OK (bill_no=5, rev=16, desc_len=8)
+[2025-10-23 09:31:49] Row 5 description = 'ohayo' (len=5)
+[2025-10-23 09:31:49] Row 5 OK (bill_no=6, rev=16, desc_len=5)
+[2025-10-23 09:31:49] Row 6 description = 'slemat pagi' (len=11)
+[2025-10-23 09:31:49] Row 6 OK (bill_no=7, rev=16, desc_len=11)
+[2025-10-23 09:31:49] Row 7 description = 'urahhh' (len=6)
+[2025-10-23 09:31:49] Row 7 OK (bill_no=8, rev=16, desc_len=6)
+[2025-10-23 09:31:49] Row 8 description = 'yes' (len=3)
+[2025-10-23 09:31:49] Row 8 OK (bill_no=9, rev=16, desc_len=3)
+[2025-10-23 09:31:49] Row 9 description = 'yesssss' (len=7)
+[2025-10-23 09:31:49] Row 9 OK (bill_no=10, rev=16, desc_len=7)
+[2025-10-23 09:31:49] Row 10 description = 'yessssssssssss' (len=14)
+[2025-10-23 09:31:49] Row 10 OK (bill_no=11, rev=16, desc_len=14)
+[2025-10-23 09:31:49] Row 11 description = 'abcdefg' (len=7)
+[2025-10-23 09:31:49] Row 11 OK (bill_no=12, rev=16, desc_len=7)
+[2025-10-23 09:31:49] Revision #16 saved successfully.
+[2025-10-23 09:31:49] ===== Script ended normally =====
+
+[2025-10-24 09:03:08] ===== Script started =====
+[2025-10-24 09:03:08] Database connected.
+[2025-10-24 09:03:08] Project ID = 17
+[2025-10-24 09:03:08] Lock file updated.
+[2025-10-24 09:03:08] Next revision number = 26
+[2025-10-24 09:03:08] Prepared successfully.
+[2025-10-24 09:03:08] Total rows submitted = 10
+[2025-10-24 09:03:08] Row 0 skipped (empty + zero values)
+[2025-10-24 09:03:08] Row 1 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 1 OK (bill_no=2, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 2 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 2 OK (bill_no=3, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 3 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 3 OK (bill_no=4, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 4 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 4 OK (bill_no=5, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 5 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 5 OK (bill_no=6, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 6 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 6 OK (bill_no=7, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 7 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 7 OK (bill_no=8, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 8 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 8 OK (bill_no=9, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Row 9 description = 'yes' (len=3)
+[2025-10-24 09:03:08] Row 9 OK (bill_no=10, rev=26, desc_len=3)
+[2025-10-24 09:03:08] Revision #26 saved successfully.
+[2025-10-24 09:03:08] ===== Script ended normally =====
+
